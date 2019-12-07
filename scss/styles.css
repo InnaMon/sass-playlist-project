@@ -55,6 +55,10 @@ li {
   text-align: center;
 }
 
+#main-nav a:hover {
+  color: #dbd9d9;
+}
+
 section h1 {
   font-size: 24px;
   color: #032f3e;

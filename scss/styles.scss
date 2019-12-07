@@ -20,6 +20,9 @@
         padding: 16px;
         display: block;
         text-align: center;
+        &:hover {
+            color: rgb(219, 217, 217);
+        }
     }
 }
 //end main-nav
